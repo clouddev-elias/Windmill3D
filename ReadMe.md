@@ -10,5 +10,5 @@
 * JFrame
 * Use of costum 3ds importer
 
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Content")
+![picture alt](http://cloudinfo.biz/links/J3D_Windmill.PNG "Content")
 
